@@ -1,4 +1,4 @@
-# Line Decryption
+# Sentence Decryption
 ### Predict which text is the line taken from
 
 The decryptor_source.py is a python code that uses a deep learning architecture to train on the encrypted
