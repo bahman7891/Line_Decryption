@@ -2,7 +2,7 @@
 
 
 '''
-Deep learning the encrypted lines from novels by fragmentation.
+Deep learning the encrypted sentences from texts by fragmentation.
 Author: Bahman Roostaei.
 Rights: All rights are reserved to the author. Please do not share.
 Creation date: 30.June.2017
